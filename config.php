@@ -1,5 +1,5 @@
 <?php
-	$dbhost = '127.0.0.1';
+	$dbhost = '82.208.179.62';
 	$db = 'licenta';
 	$dbtable = 'users';
 	$dbuser = 'root';
